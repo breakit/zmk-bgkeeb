@@ -13,8 +13,8 @@
 #
 ---
 include:
-  - board: nice_nano//zmk
+  - board: nice_nano_v2//zmk
     shield: bgkeeb_left
-  - board: nice_nano//zmk
+  - board: nice_nano_v2//zmk
     shield: bgkeeb_right
 
