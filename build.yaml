@@ -17,4 +17,6 @@ include:
     shield: bgkeeb_left
   - board: nice_nano@2
     shield: bgkeeb_right
+  - board: nice_nano@2
+    shield: settings_reset
 
