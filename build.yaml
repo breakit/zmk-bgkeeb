@@ -17,6 +17,4 @@ include:
     shield: bgkeeb_left
   - board: nice_nano//zmk
     shield: bgkeeb_right
-  - board: nice_nano//zmk
-    shield: settings_reset
 
